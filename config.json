@@ -1,7 +1,7 @@
 {
     "ownerNumber": "6283145207058@s.whatsapp.net",
     "ownerName": "Ky495",
-    "botName": "Hinata-Md",
+    "botName": "KyBot",
     "footer": "Xcode Team",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "KyBot",
+        "author": "By Ky 495"
     }
 }
